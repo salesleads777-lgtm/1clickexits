@@ -1,0 +1,6 @@
+{
+  "name": "1CLICK EXITS - Timeshare Exit Lead Stream Software",
+  "description": "100% TCPA compliant real-time dispatch stream of 650–1,500+ fresh timeshare exit inquiries per user/day with full owner dossiers, claim system, and direct dialer exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
